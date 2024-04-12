@@ -1,6 +1,11 @@
 # laravel-thong-ke-truy-cap
 Thống kê truy cập với Google Analytics v4 cho Laravel
 
+<p align="center">
+<a href="https://packagist.org/packages/actcmsvn/laravel-thong-ke-truy-cap"><img src="https://img.shields.io/packagist/dt/actcmsvn/laravel-thong-ke-truy-cap" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/actcmsvn/laravel-thong-ke-truy-cap"><img src="https://img.shields.io/packagist/v/actcmsvn/laravel-thong-ke-truy-cap" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/actcmsvn/laravel-thong-ke-truy-cap"><img src="https://img.shields.io/packagist/l/actcmsvn/laravel-thong-ke-truy-cap" alt="License"></a>
+</p>
 
 ## About
 
