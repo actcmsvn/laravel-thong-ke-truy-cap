@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
+        "google/gax": "^1.6.0",
         "google/analytics-data": "^0.9.4",
         "spatie/laravel-package-tools": "^1.12.1"
     },
